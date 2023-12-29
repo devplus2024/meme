@@ -1,0 +1,26 @@
+.meme{
+  text-decoration: none;
+  background-color: blue;
+  border-radius: 6px;
+  font-size: 50px;
+  padding: 5px 4px;
+  color:white;
+  font-family: consolas;
+}
+.meme:hover{
+  color: chartreuse;
+}
+.img1{
+  height: 400px;
+  width: 400px;
+  border-radius: 5px;
+}
+.home{
+  text-decoration: none;
+  background-color: blue;
+  border-radius: 6px;
+  font-size: 50px;
+  padding: 5px 4px;
+  color:white;
+  font-family: consolas;
+}
